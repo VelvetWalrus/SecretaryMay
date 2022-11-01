@@ -7,6 +7,6 @@
 <title>Your personal secretary, May</title>
 </head>
 <body>
-<h1> 처음 뜨는 화면</h1>
+<h1> 처음 뜨는 화면git test</h1>
 </body>
 </html>
